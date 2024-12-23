@@ -23,6 +23,13 @@
 
 ## Installation
 
+### Using the Pre-Compiled `.exe` File
+
+1. Locate the `main.exe` file in the project directory.
+2. Run the `.exe` file to start the application immediately without installing Python or any dependencies.
+
+### Using Python
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/PhoneVerifyAPI.git
@@ -43,7 +50,7 @@
 
 ## Usage
 
-1. **Launch the Application:** Start the program by running the `main.py` file.
+1. **Launch the Application:** Start the program using either the `.exe` file or the `main.py` script.
 
 2. **Enter API Key:** Obtain an API key from [NumVerify.com](https://numverify.com) and input it into the application.
 
